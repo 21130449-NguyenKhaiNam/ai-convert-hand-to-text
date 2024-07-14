@@ -1,5 +1,9 @@
 **Hệ thống nhận diện thủ ngữ**
 
+Triển khai và thử nghiệm dự án:
+Kaggle: https://www.kaggle.com/code/nkn2310/convert-hand-to-text
+Colad: https://colab.research.google.com/drive/1huHpimVhJtYTWG_wJCfCs7lJNV1zVI33?usp=sharing
+
 Nguyễn Khải Nam, Võ Nguyễn Nhật Khương
 
 **Tóm tắt**: Dự án tập trung vào việc phát triển một hệ thống nhận diện ngôn ngữ ký hiệu, nhằm tạo môi trường giao tiếp công bằng và hiệu quả cho cộng đồng người khiếm thính. Trong quá trình nghiên cứu, các thuật toán như VGG16, Adam Optimizer, Early Stopping, Dropout, Categorical Crossentropy Loss, ModelCheckpoint, Data Augmentation, One-Hot Encoding, Classification Report và Confusion Matrix đã được áp dụng. Tuy nhiên, kết quả thực tế không đạt được sự kỳ vọng do hạn chế về khả năng học và tập dữ liệu (bổ sung các số liệu thực tế). 
