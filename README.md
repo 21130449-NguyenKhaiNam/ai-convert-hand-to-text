@@ -1,8 +1,8 @@
 **Hệ thống nhận diện thủ ngữ**
 
 Triển khai và thử nghiệm dự án:
-Kaggle: https://www.kaggle.com/code/nkn2310/convert-hand-to-text
-Colad: https://colab.research.google.com/drive/1huHpimVhJtYTWG_wJCfCs7lJNV1zVI33?usp=sharing
+- Kaggle: https://www.kaggle.com/code/nkn2310/convert-hand-to-text
+- Colad: https://colab.research.google.com/drive/1huHpimVhJtYTWG_wJCfCs7lJNV1zVI33?usp=sharing
 
 Nguyễn Khải Nam, Võ Nguyễn Nhật Khương
 
